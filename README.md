@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MohamedIsmailM
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL, Pandas
+- 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Linkedin
+- 📫 How to reach me on my linkedIn profile
 
 <!---
 MohamedIsmailM/MohamedIsmailM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
